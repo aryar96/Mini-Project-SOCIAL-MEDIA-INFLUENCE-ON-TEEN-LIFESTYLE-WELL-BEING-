@@ -97,7 +97,7 @@ A Power BI dashboard project that analyzes social media usage patterns and their
 ## How to View
 
 1. Clone or download this repository.
-2. Open `Mini Project Power BI.pbix` in Power BI Desktop to explore the dashboard.
+2. Open `Mini Project.pbix` in Power BI Desktop to explore the dashboard.
 3. Open `Mini Project.xlsx` in Excel to see the cleaned data and pivot tables.
 4. Read `MINI Project_Report PDF.pdf` for the full report.
 
