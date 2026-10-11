@@ -42,22 +42,44 @@ A Power BI dashboard project that analyzes social media usage patterns and their
 
 - Built pivot tables: platform-wise average stress, gender-wise depression risk, age group-wise social media hours, academic performance by screen time before sleep, and mental strain status by physical activity
 
+
 ## Dashboard Pages
 
-1. **Overview & Navigation:** project introduction, KPIs, navigation
-  ![Dashboard Page A](Image/dashboard_pageA.png)
-2. **Social Media Usage Analytics:** platforms, age groups, gender, usage intensity
-     ![Dashboard Page B](Image/dashboard_pageB.png)
-3. **Mental Health Impact:** stress, anxiety, depression risk, MSI
-   ![Dashboard Page C](Image/dashboard_pageC.png)
-4. **Lifestyle & Physical Health Impact:** sleep quality, physical activity, social interaction
-    ![Dashboard Page D](Image/dashboard_pageD.png)
-5. **Academic Influence:** academic performance vs. digital habits and wellness
-    ![Dashboard Page E](Image/dashboard_pageE.png)
-6. **Decomposition Tree Analysis:** pathways leading to high mental strain
-    ![Dashboard Page F](Image/dashboard_pageF.png)
-7. **Conclusion & Recommendations:** summary and actionable suggestions
-     ![Dashboard Page G](Image/dashboard_pageG.png)
+### 1. Overview & Navigation
+Project introduction, key performance indicators (KPIs), and navigation.
+
+![Dashboard Page A](Image/dashboard_pageA.png)
+
+### 2. Social Media Usage Analytics
+Platforms, age groups, gender, and usage intensity.
+
+![Dashboard Page B](Image/dashboard_pageB.png)
+
+### 3. Mental Health Impact
+Stress, anxiety, depression risk, and Mental Strain Index (MSI).
+
+![Dashboard Page C](Image/dashboard_pageC.png)
+
+### 4. Lifestyle & Physical Health Impact
+Sleep quality, physical activity, and social interaction.
+
+![Dashboard Page D](Image/dashboard_pageD.png)
+
+### 5. Academic Influence
+Academic performance versus digital habits and well-being.
+
+![Dashboard Page E](Image/dashboard_pageE.png)
+
+### 6. Decomposition Tree Analysis
+Explore pathways associated with high mental strain.
+
+![Dashboard Page F](Image/dashboard_pageF.png)
+
+### 7. Conclusion & Recommendations
+Summary of findings and actionable recommendations.
+
+![Dashboard Page G](Image/dashboard_pageG.png)
+
 
 **Visuals used:** Gauge, Waterfall, Ribbon, Funnel, Treemap, Scatter, Line & Area charts, Matrix, Decomposition Tree, slicers, cards, tooltips, drill-down, and page navigation buttons.
 
