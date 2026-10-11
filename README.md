@@ -48,12 +48,12 @@ A Power BI dashboard project that analyzes social media usage patterns and their
 ### 1. Overview & Navigation
 Project introduction, key performance indicators (KPIs), and navigation.
 
-![Dashboard Page A](Image/dashboard_pageA.png)
+![Dashboard Page A](Image/imagesdashboard_pageA.png)
 
 ### 2. Social Media Usage Analytics
 Platforms, age groups, gender, and usage intensity.
 
-![Dashboard Page B](Image/dashboard_pageB.png)
+![Dashboard Page B](Image/imagesdashboard_pageB.png)
 
 ### 3. Mental Health Impact
 Stress, anxiety, depression risk, and Mental Strain Index (MSI).
