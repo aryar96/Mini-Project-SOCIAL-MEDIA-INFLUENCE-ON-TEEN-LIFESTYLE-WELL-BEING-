@@ -90,9 +90,9 @@ A Power BI dashboard project that analyzes social media usage patterns and their
 |------|-------------|
 | `Teen_Mental_Health_Dataset (1).csv` | Raw dataset |
 | `Mini Project.xlsx` | Cleaned data, calculated columns, and pivot tables |
-| `Mini Project Power BI.pbix` | Power BI dashboard |
+| `Mini Project.pbix` | Power BI dashboard |
 | `MINI Project_Report PDF.pdf` | Full project report |
-| `Social Media Influence on Teen Lifestyle & Well...` | Project file (add description) |
+| `Social Media Influence on Teen Lifestyle & Well...` | PowerPoint Presentation |
 
 ## How to View
 
