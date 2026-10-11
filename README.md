@@ -58,27 +58,27 @@ Platforms, age groups, gender, and usage intensity.
 ### 3. Mental Health Impact
 Stress, anxiety, depression risk, and Mental Strain Index (MSI).
 
-![Dashboard Page C](Image/dashboard_pageC.png)
+![Dashboard Page C](Image/imagesdashboard_pageC.png)
 
 ### 4. Lifestyle & Physical Health Impact
 Sleep quality, physical activity, and social interaction.
 
-![Dashboard Page D](Image/dashboard_pageD.png)
+![Dashboard Page D](Image/imagesdashboard_pageD.png)
 
 ### 5. Academic Influence
 Academic performance versus digital habits and well-being.
 
-![Dashboard Page E](Image/dashboard_pageE.png)
+![Dashboard Page E](Image/imagesdashboard_pageE.png)
 
 ### 6. Decomposition Tree Analysis
 Explore pathways associated with high mental strain.
 
-![Dashboard Page F](Image/dashboard_pageF.png)
+![Dashboard Page F](Image/imagesdashboard_pageF.png)
 
 ### 7. Conclusion & Recommendations
 Summary of findings and actionable recommendations.
 
-![Dashboard Page G](Image/dashboard_pageG.png)
+![Dashboard Page G](Image/imagesdashboard_pageG.png)
 
 
 **Visuals used:** Gauge, Waterfall, Ribbon, Funnel, Treemap, Scatter, Line & Area charts, Matrix, Decomposition Tree, slicers, cards, tooltips, drill-down, and page navigation buttons.
