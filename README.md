@@ -45,12 +45,19 @@ A Power BI dashboard project that analyzes social media usage patterns and their
 ## Dashboard Pages
 
 1. **Overview & Navigation:** project introduction, KPIs, navigation
+  ![Dashboard Page A](images/dashboard_pageA.png)
 2. **Social Media Usage Analytics:** platforms, age groups, gender, usage intensity
+     ![Dashboard Page B](images/dashboard_pageB.png)
 3. **Mental Health Impact:** stress, anxiety, depression risk, MSI
+   ![Dashboard Page C](images/dashboard_pageC.png)
 4. **Lifestyle & Physical Health Impact:** sleep quality, physical activity, social interaction
+    ![Dashboard Page D](images/dashboard_pageD.png)
 5. **Academic Influence:** academic performance vs. digital habits and wellness
+    ![Dashboard Page E](images/dashboard_pageE.png)
 6. **Decomposition Tree Analysis:** pathways leading to high mental strain
+    ![Dashboard Page F](images/dashboard_pageF.png)
 7. **Conclusion & Recommendations:** summary and actionable suggestions
+     ![Dashboard Page G](images/dashboard_pageG.png)
 
 **Visuals used:** Gauge, Waterfall, Ribbon, Funnel, Treemap, Scatter, Line & Area charts, Matrix, Decomposition Tree, slicers, cards, tooltips, drill-down, and page navigation buttons.
 
